@@ -70,9 +70,13 @@ The application will be accessible at `http://localhost:8000`.
 ## Screenshots of the Project
 
 ![Screenshot from 2023-11-09 19-58-52](https://github.com/TheKingOo/dentiste-website-with-PHP-Laravel/assets/95720632/e6cf2f71-fe52-462c-a140-b2f5474be9fa)
+
 ![Screenshot from 2023-11-09 19-59-02](https://github.com/TheKingOo/dentiste-website-with-PHP-Laravel/assets/95720632/14d04d29-03f4-4a8e-9311-2c842cd4e00d)
-![Uploading Screenshot from 2023-11-09 19-59-11.png…]()
+
+![Screenshot from 2023-11-09 19-59-11](https://github.com/TheKingOo/dentiste-website-with-PHP-Laravel/assets/95720632/68750637-38fe-4952-816c-c0f5f9f970f4)
+
 ![Screenshot from 2023-11-09 19-59-20](https://github.com/TheKingOo/dentiste-website-with-PHP-Laravel/assets/95720632/a5fb380f-3ed2-47e4-a2ce-8a64f34285da)
+
 ![Screenshot from 2023-11-09 19-59-36](https://github.com/TheKingOo/dentiste-website-with-PHP-Laravel/assets/95720632/a0bbcd9d-dc91-4d77-962f-9802818c63cf)
 
 ## License
