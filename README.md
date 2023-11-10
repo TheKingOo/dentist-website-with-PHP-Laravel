@@ -79,8 +79,6 @@ The application will be accessible at `http://localhost:8000`.
 
 ![Screenshot from 2023-11-09 19-59-36](https://github.com/TheKingOo/dentiste-website-with-PHP-Laravel/assets/95720632/a0bbcd9d-dc91-4d77-962f-9802818c63cf)
 
-## License
-This project is licensed under the MIT License.
 
 Feel free to adapt this template further based on any additional functionalities or specifics of your project.
 
